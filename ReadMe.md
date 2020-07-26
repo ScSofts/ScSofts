@@ -1,4 +1,4 @@
-![](https://img03.sogoucdn.com/app/a/100520146/e528a98d1d059d43241005b30d0d4700)
+![](http://p4.so.qhimgs1.com/t011d059d43241005b3.jpg)
 
 Wait, I'm working hard ...
 
