@@ -9,5 +9,5 @@ Contribute to RayLang in
 [![RayLang,compiler](https://github-readme-stats.vercel.app/api/pin/?username=The-Ray-Language&repo=raylang.compiler&show_owner=true&show_icons=true&theme=radical)](https://github.com/The-Ray-Language/raylang.compiler)
 
 
-<img src="http://p4.so.qhimgs1.com/t011d059d43241005b3.jpg" width="20px" height="20px"/>
+<img src="http://p4.so.qhimgs1.com/t011d059d43241005b3.jpg" width="40px" height="40px"/>
 Wait, I'm working hard ...
