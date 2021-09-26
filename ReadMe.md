@@ -1,5 +1,6 @@
 My GIthub Status
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=ScSofts&count_private=true&show_icons=true)]
+
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=ScSofts&count_private=true&show_icons=true)
 
 I'm one of the designer of the [_RAY_](https://github.com/The-Ray-Language/raylang.design) language
 
