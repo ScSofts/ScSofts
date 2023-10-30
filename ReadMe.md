@@ -1,4 +1,4 @@
-<table>
+<table align="center">
     <thead>
         <tr>
             <th colspan="2">
@@ -13,7 +13,7 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://github-readme-stats.vercel.app/api?theme=onedark&username=ScSofts&count_private=true&show_icons=true" alt="Github Status">
             </td>
             <td align="center">
