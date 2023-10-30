@@ -1,4 +1,4 @@
-<table>
+<table align="center">
     <thead>
         <tr>
             <th colspan="2">
