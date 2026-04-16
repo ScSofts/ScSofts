@@ -9,7 +9,7 @@
     <tbody>
         <tr>
             <td colspan="2">
-                <div align="center">I'm ScSofts, a scientism, a programmer and a realist.</div>
+                <div align="center">I'm ScSofts, a scientism, a programmer, a trader(<del>gambler</del>) and a realist.</div>
             </td>
         </tr>
         <tr>
